@@ -7,13 +7,13 @@
 
 为此，我们开发了 WPCY Status 这个小工具，并部署在 [WPCY.COM](https://wpcy.com)，方便普通用户判断自己是否无法访问某项文派服务。
 
-<a href="#"><img height="auto" src="https://wpcy.com/wp-content/uploads/2025/02/20250204-204306@2x.png"></a>
-
 判断依据：
 1. **用户端检测**：通过用户浏览器 `ping` 服务地址进行检测。
 2. **服务器端检测**：如果我们的服务器多次 `ping` 不通，则大概率是服务宕机。
 
 如果发现直接访问相关域名也不可用，请及时联系文派开源团队成员处理。
+
+<a href="#"><img height="auto" src="https://wpcy.com/wp-content/uploads/2025/02/20250204-204306@2x.png"></a>
 
 ## 如何使用
 
